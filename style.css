@@ -56,3 +56,16 @@ h1 {
     border-top: 15px solid #42d65b;
 }
 
+
+.player {
+    position: absolute;
+    left: 40px;
+    bottom: 90px;
+    width: 40px;
+    height: 50px;
+    background: #ff69b4;
+    border: 4px solid #813c85;
+    border-radius: 8px 8px 4px 4px;
+    z-index: 5;
+    box-shadow: inset 0 8px #ffb4dc;
+}
